@@ -240,3 +240,5 @@ document.addEventListener('keydown', (e) => {
 window.addEventListener('resize', () => {
   divToImg();
 });
+
+
