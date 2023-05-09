@@ -67,6 +67,20 @@ button
   font-weight: bolder;
 }
 
+#link1{
+  display: inline-block;
+  font-size: 20px;
+  position: fixed;
+  left: 5px;
+  bottom: 5px;
+}
+#link2{
+  display: inline-block;
+  font-size: 20px;
+  position: fixed;
+  right: 5px;
+  bottom: 5px;
+}
 
 @-webkit-keyframes glow {
   from {
